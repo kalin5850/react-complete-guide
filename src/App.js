@@ -10,6 +10,8 @@ class App extends Component {
         <br />
         <h1>test</h1>
         <Person />
+        <Person />
+        <Person />
       </div>
     );
     /**
